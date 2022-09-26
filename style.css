@@ -1,0 +1,51 @@
+h1{
+    font-size: 42px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    width: 10%;
+    height: 10%;
+}
+h1, h2,p {
+    color:red; 
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#unico{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    text-align: center;
+}
+.clase{
+    color: bisque;
+    background-color: rgb(1, 40, 40);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: end;
+    
+}
+.nueva{
+    color: rgb(216, 238, 218);
+    background-color: rgb(108, 2, 7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align:justify;
+}
+table{
+    width: 100%;
+    border: 3px solid rgb(7, 247, 91);
+}
+th{
+    /* border: 1px dashed rgb(154, 5, 5); */
+    text-align: center;
+}
+td{
+    border: 1px dotted rgb(5, 10, 154);
+    text-align: center;
+}
+.clasebody{
+    background: rgb(34,193,195);
+    background: linear-gradient(212deg, rgba(34,193,195,1) 0%, rgba(188,192,78,1) 17%, rgba(189,105,186,1) 60%, rgba(226,105,124,1) 83%, rgba(253,187,45,1) 100%);
+}
